@@ -1,0 +1,33 @@
+{
+  "name": "wd2018_cc6",
+  "version": "1.0.0",
+  "description": "Code Challenge 6 - Course - Complete Web Developer in 2018",
+  "main": "karma.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maboumra/WD2018_CC6.git"
+  },
+  "keywords": [
+    "Code",
+    "Challenge",
+    "6"
+  ],
+  "author": "Marcelo Aboumrad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maboumra/WD2018_CC6/issues"
+  },
+  "homepage": "https://github.com/maboumra/WD2018_CC6#readme",
+  "devDependencies": {
+    "jasmine-core": "^3.1.0",
+    "karma": "^2.0.3",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.2"
+  }
+}
