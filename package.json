@@ -1,6 +1,6 @@
 {
   "name": "wd2018_cc6",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Code Challenge 6 - Course - Complete Web Developer in 2018",
   "main": "karma.conf.js",
   "directories": {
