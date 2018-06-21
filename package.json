@@ -1,6 +1,6 @@
 {
   "name": "rgbtohexandback",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Code Challenge 6 - Course - Complete Web Developer in 2018",
   "main": "karma.conf.js",
   "directories": {
