@@ -36,4 +36,21 @@ describe("Coding Challenge6", function () {
         // Check the results;
         expect(_arrayIsTheSame(expected, result)).toBeTruthy();
     });
+
+    it("question 3 - should convert HEX to RGB and vice-versa", function () {
+       let input = '   #0a0a0a  ';
+       let expected = 'rgb(10,10,10)';
+       let result = question_3_rgb_to_hex_to_rgb(input);
+       expect(result).toBe(expected);
+
+       input = '   rGb(255, 255,   255)  ';
+       expected = '#ffffff';
+       result = question_3_rgb_to_hex_to_rgb(input);
+       expect(result).toBe(expected);
+
+        input = '   rGb(10, 10,   10)  ';
+        expected = '#0a0a0a';
+        result = question_3_rgb_to_hex_to_rgb(input);
+        expect(result).toBe(expected);
+    });
 });
