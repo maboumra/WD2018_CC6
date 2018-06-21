@@ -3,5 +3,5 @@
 # Installation
   `npm install rgbtohexandback`
 # Usage
-`import rgbToHexAndBack from 'rgbToHexAndBack';`  
+`import rgbToHexAndBack from 'rgbtohexandback';`  
 `rgbToHexAndBack('#ffffff'); \\or rgbToHexAndBack('rgb(255,255,255)');`
