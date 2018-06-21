@@ -1,6 +1,6 @@
 {
-  "name": "rgb_to_hex_and_back",
-  "version": "1.0.2",
+  "name": "rgbToHexAndBack",
+  "version": "1.0.3",
   "description": "Code Challenge 6 - Course - Complete Web Developer in 2018",
   "main": "karma.conf.js",
   "directories": {

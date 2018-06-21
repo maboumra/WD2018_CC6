@@ -1,6 +1,6 @@
 "use strict";
 
-function rgb_to_hex_and_back(value) {
+function rgbToHexAndBack(value) {
     let newValue = value.trim();
     if (newValue.charAt(0) === '#') {
         //Hex
@@ -22,4 +22,4 @@ function rgb_to_hex_and_back(value) {
     return newValue;
 }
 
-export default rgb_to_hex_and_back;
+export default rgbToHexAndBack;
